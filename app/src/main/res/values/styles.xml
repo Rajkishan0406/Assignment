@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<style name="CustomEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    <item name="colorPrimaryDark">#8630DC</item>
+    <item name="colorPrimary">#EFF0F1</item>
+</style>
+
+
+</resources>
